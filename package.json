@@ -1,0 +1,11 @@
+{
+  "name": "chai-backend",
+  "version": "1.0.0",
+  "description": "learning backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sakpal AMit",
+  "license": "ISC"
+}
